@@ -1,0 +1,21 @@
+
+[48;5;1m<html>[0m
+[48;5;18m	<body>[0m
+[48;5;35m		<div>[0m
+			[48;5;1m[48;5;18m[48;5;35msome free entry text[0m
+		[48;5;35m</div>[0m
+[48;5;52m		<p>[0m
+			[48;5;1m[48;5;18m[48;5;35m[48;5;52mthis is a paragraph with a different color[0m
+		[48;5;52m</p>[0m
+[48;5;35m		<div style="text-align: center">[0m
+			<!-- Hello Comment -->
+[48;5;52m			<p>[0m
+				[48;5;1m[48;5;18m[48;5;35m[48;5;52m[48;5;35m[48;5;52mthis is a different paragraph with the same color all other paragraphs[0m
+			[48;5;52m</p>[0m
+[48;5;69m			<a href="http://google.com" style="text-align: center">[0m
+[48;5;86m				<img href="http://google.com/img.jpg">[0m
+				[48;5;86m</img>[0m
+			[48;5;69m</a>[0m
+		[48;5;35m</div>[0m
+	[48;5;18m</body>[0m
+[48;5;1m</html>[0m
